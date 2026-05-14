@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Latte",
+    "price": 95.0,
+    "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=800",
+    "category": "Sicak Kahve",
+    "description": "Yumusak icimli sutlu kahve sevenler icin klasik latte."
+  },
+  {
+    "id": 2,
+    "name": "Cappuccino",
+    "price": 90.0,
+    "imageUrl": "https://images.unsplash.com/photo-1534778101976-62847782c213?w=800",
+    "category": "Sicak Kahve",
+    "description": "Bol kopuklu ve dengeli aromaya sahip cappuccino."
+  },
+  {
+    "id": 3,
+    "name": "Americano",
+    "price": 80.0,
+    "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800",
+    "category": "Sicak Kahve",
+    "description": "Daha sert ve net tat isteyenler icin sade americano."
+  },
+  {
+    "id": 4,
+    "name": "Mocha",
+    "price": 105.0,
+    "imageUrl": "https://images.unsplash.com/photo-1517701604599-bb29b565090c?w=800",
+    "category": "Tatli Kahve",
+    "description": "Cikolata ve kahvenin bulustugu yumusak ve keyifli lezzet."
+  },
+  {
+    "id": 5,
+    "name": "Iced Coffee",
+    "price": 85.0,
+    "imageUrl": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=800",
+    "category": "Soguk Kahve",
+    "description": "Serinletici ve hafif icecek sevenler icin soguk kahve."
+  },
+  {
+    "id": 6,
+    "name": "Caramel Macchiato",
+    "price": 115.0,
+    "imageUrl": "https://images.unsplash.com/photo-1511920170033-f8396924c348?w=800",
+    "category": "Ozel Kahve",
+    "description": "Karamel dokunuslu, hafif tatli ve gorsel olarak da guzel bir kahve."
+  }
+]
